@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ana Nurbaiti
 
-✨ Junior QA Engineer with hands-on experience in **manual & automation testing**, passionate about clean code, detailed testing, and scalable test frameworks.
+✨ QA Engineer with hands-on experience in **manual & automation testing**, passionate about clean code, detailed testing, and scalable test frameworks.
 
 - 🌱 I’m currently learning and building real-world QA projects using Java, Selenium, and REST-assured  
 - 💬 Ask me about test case design, REST API testing, or anything related to Cucumber & Gherkin  
