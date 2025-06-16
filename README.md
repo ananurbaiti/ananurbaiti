@@ -30,4 +30,4 @@ Here are a few of my highlighted repositories:
 ---
 
 ## ⚡ Fun fact:
-I transitioned from a background in marketing and found my passion in software testing. Now I love debugging more than designing campaigns 😄
+I transitioned from a background in marketing and found my passion in software testing. Now I love debugging more than designing campaigns.
